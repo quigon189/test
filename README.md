@@ -15,9 +15,6 @@
 ```python
 import rand
 
+asdsda
 print("Hello World!")
 ```
-
-|1|2|
------
-|3|4|
